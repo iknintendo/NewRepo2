@@ -42,7 +42,7 @@ Public static void main (String args []) {
 Task List #1:
 
 - [X] this item completed
-- [] this item not completed
+- [ ] this item not completed
 
 First Header | Second Header
 ------------ | -------------
