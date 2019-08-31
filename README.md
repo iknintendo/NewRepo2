@@ -18,8 +18,8 @@ As GraceHopper said:
 > I’ve always been more interested in 
 > the future than in the past
 
-* Unordered Item *
-* Another Unordered Item *
+* Unordered Item 
+* Another Unordered Item 
 
 1. Ordered Item 1
 2. Ordered Item 2
