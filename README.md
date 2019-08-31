@@ -26,7 +26,7 @@ As GraceHopper said:
 
 \* Escaped asterisks \*
 
-[Github] (http://github.com)
+[Github](http://github.com)
 
 :+1:    :metal:     :octocat:
 
