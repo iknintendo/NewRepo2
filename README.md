@@ -31,6 +31,7 @@ As GraceHopper said:
 :+1:    :metal:     :octocat:
 
 ``` java
-Public static void main (String args [ ]) {
+Public static void main (String args []) {
 }
+
 ```
